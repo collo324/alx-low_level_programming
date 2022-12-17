@@ -3,10 +3,11 @@
 
 #include <stdio.h>
 
-void postitive_or_negative(i);
+void postitive_or_negative(int i);
 int largest_number(int a, int b, int c);
 void print_remaining_days(int month, int year, int day);
-int correct_day(int month, int day);
+int convert_day(int, int, int)
 void print_times_table(int n);
 
 #endif
+
