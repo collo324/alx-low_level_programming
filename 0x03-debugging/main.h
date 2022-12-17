@@ -7,7 +7,6 @@ void postitive_or_negative(int i);
 int largest_number(int a, int b, int c);
 void print_remaining_days(int month, int year, int day);
 int convert_day(int month, int year, int day);
-void print_times_table(int n);
 
-#endif
 
+#endif /* MAIN_H */
