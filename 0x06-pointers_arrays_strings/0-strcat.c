@@ -1,6 +1,5 @@
 #include "main.h"
 
-
 /**
  * _strcat -> this is a function strcat
  * @dest: param1
