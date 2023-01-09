@@ -5,7 +5,7 @@
  * main - prints the multiplication of two integers
  * @argc: argument count
  * @argv: argument vector
- * Return: Always 0
+ * Return: 0 if it works, 1 if there is an ERROR
  */
 int main(int argc, char *argv[])
 {
