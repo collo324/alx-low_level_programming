@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strlen - count arrra
+ * _strlen - count array
  * @s: array of elements
  * Return: i
  */
@@ -25,7 +25,7 @@ int _strlen(char *s)
  * Return: Always an array dinamic
  */
 
-char *str_concat(char s1, char *s2)
+char *str_concat(char *s1, char *s2)
 {
 	char *dst;
 	unsigned int i, j, size;
