@@ -55,7 +55,7 @@ char *str_concat(char *s1, char *s2)
 	for (j = 0; *(s2 + j) != '\0'; j++)
 	{
 		*(dst + i) = *(s2 + j);
-		j++;
+		i++;
 	}
 
 	return (dst);
