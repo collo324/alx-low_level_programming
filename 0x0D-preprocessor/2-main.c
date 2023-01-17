@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Program compilation starts from the main
- * Description: this program prints the name of the file it was comipiled from
+ * Description: this program prints the name
  * author: Emmanuel lekishon
  * Return: 0
  */
